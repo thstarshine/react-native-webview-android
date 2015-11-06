@@ -23,6 +23,6 @@
   "repository": "https://github.com/lucasferreira/react-native-webview-android",
   "bugs": "https://github.com/lucasferreira/react-native-webview-android/issues",
   "peerDependencies": {
-    "react-native": ">=0.13"
+    "react-native": ">=0.10"
   }
 }
